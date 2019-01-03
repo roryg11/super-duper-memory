@@ -1,5 +1,5 @@
 import date20181231 from "./images/20181231.JPG"; 
-import date20190101 from "./images/20190101.jpg"; 
+import date20190101 from "./images/20190101.JPG"; 
 import date20190102 from "./images/20190102.jpg"; 
 
 
