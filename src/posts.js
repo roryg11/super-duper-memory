@@ -1,14 +1,14 @@
 import date20181231 from "./images/20181231.JPG"; 
-import date20190101 from "./images/20190101.JPG"; 
+import date20190101 from "./images/20190101.jpg"; 
 
 
 const posts = [
     {
         answer: "YES",
         description: `Spent New Year's drinking one Pisco and going to bed... 
-        We've been trying to ! 
         So far we've discovered that Cusco has seemingly more hills than San Francisco
-        and their own brand of hairless dog.`,
+        and their own brand of hairless dog. Mostly we're just exhausted and trying to get some zzz's
+        at our airbnb`,
         date: new Date("01/01/2019"),
         formattedDate: "01.01.2018",
         backgroundImg: date20190101,

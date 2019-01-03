@@ -40,10 +40,10 @@ const ImageHero = (props) => {
     return (  
     <OuterBoxImage backgroundImg={props.backgroundImg}>
         <InnerBox>
-          <BoldText>{props.answer}</BoldText>
+          <BoldText>{props.date}</BoldText>
         </InnerBox>
         <InnerBoxShadow>
-          <InnerBoxShadowText>{props.date.toString()}</InnerBoxShadowText>
+          <InnerBoxShadowText>{props.date}</InnerBoxShadowText>
           <InnerBoxShadowText>{props.description}</InnerBoxShadowText>
         </InnerBoxShadow>
       </OuterBoxImage>)
