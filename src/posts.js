@@ -1,5 +1,5 @@
 import date20181231 from "./images/20181231.JPG"; 
-// import date20190101 from "./images/20190101.jpg"; 
+import date20190101 from "./images/20190101.jpg"; 
 import date20190102 from "./images/20190102.jpg"; 
 import date20190103 from "./images/20190103.jpg";
 import date20190104 from "./images/20190104.jpg";
@@ -58,17 +58,17 @@ const posts = [
         latitude: -13.5226402,
         longitude: -71.9673386,
     },
-    // {
-    //     answer: "YES",
-    //     description: `Spent New Year's drinking one Pisco and going to bed... 
-    //     So far we've discovered that Cusco has seemingly more hills than San Francisco
-    //     and their own brand of hairless dog.`,
-    //     date: new Date("01/01/2019"),
-    //     formattedDate: "01.01.2019",
-    //     backgroundImg: date20190101,
-    //     latitude: -13.5226402,
-    //     longitude: -71.9673386,
-    // },
+    {
+        answer: "YES",
+        description: `Spent New Year's drinking one Pisco and going to bed... 
+        So far we've discovered that Cusco has seemingly more hills than San Francisco
+        and their own brand of hairless dog.`,
+        date: new Date("01/01/2019"),
+        formattedDate: "01.01.2019",
+        backgroundImg: date20190101,
+        latitude: -13.5226402,
+        longitude: -71.9673386,
+    },
     {
         answer: "YES",
         description: "Started our first day with a layover in Miami and some coffee followed by a pleasant flight to Lima, celebrated the new year with a Pisco Sour at the airport hotel and wearing yellow undies for luck!",
