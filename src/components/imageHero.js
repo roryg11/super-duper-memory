@@ -29,6 +29,7 @@ const InnerBoxShadow = styled(InnerBox)`
 const InnerBoxShadowText = styled.span`
     margin: 20px;
     color: white;
+    overflow: scroll;
 `
 
 const BoldText = styled(InnerBoxShadowText)`
